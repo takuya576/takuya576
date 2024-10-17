@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Generative AI**
 
-- 🔭 I’m going to work on [SiP](https://www8.cao.go.jp/cstp/gaiyo/sip/)
+- 🔭 I’m working on [SiP](https://www8.cao.go.jp/cstp/gaiyo/sip/)
 
 - 📫 How to reach me **takuya50719@g.ecc.u-tokyo.ac.jp**
 
